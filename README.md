@@ -1,5 +1,5 @@
 # underwatersensor
-Using a raspberry pi along with envioPhat to log values for later processing. Script written by using example script found at; < br/>
+Using a raspberry pi along with envioPhat to log values for later processing. Script written by using example script found at;  </br>
 https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-enviro-phat < br/>
 
 Items used:  < br/>
