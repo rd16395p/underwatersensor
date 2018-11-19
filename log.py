@@ -23,8 +23,8 @@ try:
         press = weather.pressure()
         out.write('%f\t%s\t%s\t%f\t%f\t%f\n' % (lux, rgb, acc, heading, temp, press))
         print('light, rgb, acc, heading, tempature, pressure')
-	print('%f\t%s\t%s\t%f\t%f\t%f\n' % (lux, rgb, acc, heading, temp, press))
-	time.sleep(1)
+        print('%f\t%s\t%s\t%f\t%f\t%f\n' % (lux, rgb, acc, heading, temp, press))
+        time.sleep(1)
 
 except KeyboardInterrupt:
     leds.off()
