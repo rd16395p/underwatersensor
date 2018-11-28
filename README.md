@@ -3,7 +3,7 @@ Using a raspberry pi along with envioPhat to log values for later processing. Sc
 https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-enviro-phat </br>
 
 Items used:  </br>
-Raspberry Pi Zero - along with sd card, power adapter, I recommend a headless connection over ssh. Use sftp to recieve files. 
+Raspberry Pi Zero - along with sd card, power adapter, I recommend a headless connection over ssh. Use sftp to recieve files. </br>
 enviro-phat </br>
 External Power Bank  </br>
 Mason Jar - I used a mason jar to create an air tight seal, but I am sure that other things can work too. </br>
